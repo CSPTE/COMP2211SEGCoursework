@@ -1,0 +1,17 @@
+.button {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-min-width: 200;
+}
+
+.titleLabel {
+    -fx-padding: 20px;
+    -fx-text-alignment: center;
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+}
+
+.v-box {
+    -fx-spacing: 20px;
+    -fx-alignment: center;
+}
